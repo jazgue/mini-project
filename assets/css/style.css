@@ -1,0 +1,59 @@
+*
+{margin:0;
+padding:0;
+}
+
+body
+{
+    background-color:white;
+    font-family: "Cambria", monospace, sans-serif;
+}
+
+#nav 
+{
+    
+    background-color:blueviolet;
+    color:white;
+    text-align:center;
+    position:fixed;
+    height:8em;
+    top:0px;
+    width:100%
+    
+}
+
+li
+{
+    list-style-type: none;
+    display:inline;
+    font-size: 20px;
+}
+
+#photo
+{
+    position:absolute;
+    top:400px;
+    right: 350px;
+    
+}
+
+.box-2
+{
+    background-color:lightblue;
+    padding-top: 14em;
+    top:10em;
+    height:400px;
+}
+
+.box-3{
+    background-color:pink;
+}
+#contact
+{
+    text-align:center;
+}
+
+#footer
+{
+    text-align:center;
+}
